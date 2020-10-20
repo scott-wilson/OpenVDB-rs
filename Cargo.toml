@@ -1,0 +1,17 @@
+[package]
+name = "openvdb"
+version = "0.1.0"
+authors = ["Scott Wilson <scott@propersquid.com>"]
+edition = "2018"
+license = "BSD-3-Clause"
+description = "Rust bindings for OpenVDB (placeholder)"
+keywords = ["vfx", "animation", "cg", "OpenVDB", "voxels"]
+categories = ["api-bindings"]
+homepage = "https://www.github.com/scott-wilson/OpenVDB-rs"
+documentation = "https://docs.rs/OpenVDB"
+repository = "https://www.github.com/scott-wilson/OpenVDB-rs"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
